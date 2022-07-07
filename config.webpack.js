@@ -22,7 +22,8 @@ module.exports = {
     host: "localhost",
     inline: true,
     watchContentBase: true,
-    compress: true
+    compress: true,
+    historyApiFallback: true,
   },
   module: {
     rules: [
