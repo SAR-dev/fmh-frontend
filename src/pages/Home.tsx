@@ -4,7 +4,7 @@ export const Home = () => {
     return (
         <section className="px-4 py-24 mx-auto max-w-7xl">
             <div className="mb-24 text-left md:text-center">
-                <h1 className="mb-4 text-4xl font-bold leading-tight text-gray-900 md:text-5xl">Privacy Policy</h1>
+                <h1 className="mb-4 text-4xl font-bold leading-tight text-gray-900 md:text-5xl">Privacy Policy LH</h1>
                 <p className="mb-5 text-base text-gray-500 md:text-lg">Last updated: 20th Dec 2020</p>
             </div>
             <div className="mx-auto prose">
